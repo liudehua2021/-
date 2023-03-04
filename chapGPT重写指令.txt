@@ -1,0 +1,53 @@
+1、初级润色指令：please rewrite and retouch this paragraph “内容”
+2、初级润色指令：rewrite “内容” in a formal/academia way
+3、Ai内容检测网站（判断这文章是不是机器人写的）：https://openai-openai-detector.hf.space
+
+高级润色指令
+
+
+
+Step1: 引导1:
+
+I'm going to give you some information before asking you to write an article. Do you understand?
+
+
+
+Step2: 引导2:
+
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?
+
+
+
+Step3: 重写指令：
+
+using the concepts written previously, rewrite this article with a high degree of perplexity and burstiness: ${内容}
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+2023-02-26 14:47910粉丝
+
+关注
+
+Step1: 引导1:
+
+I'm going to give you some information before asking you to write an article. Do you understand?
+
+
+
+Step2: 引导2:
+
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?
+
+
+
+Step3: 重写指令：
+
+using the concepts written previously, rewrite this article with a high degree of perplexity and burstiness: 
